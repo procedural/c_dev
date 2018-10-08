@@ -1,0 +1,1 @@
+sudo ln -s /usr/lib/x86_64-linux-gnu/libGL.so.1.0.0 /usr/lib/libGL.so

@@ -1,1 +1,0 @@
-LC_ALL=C sudo leafpad /etc/environment
